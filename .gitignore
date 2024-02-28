@@ -1,0 +1,26 @@
+# 忽略node_modules文件夹
+node_modules/
+
+# 忽略构建产生的文件或文件夹
+dist/
+build/
+
+# 忽略一些配置文件
+.env
+.env.local
+.env.production
+
+# 忽略一些编辑器或IDE生成的文件
+.vscode/
+.idea/
+
+# 忽略一些日志文件
+*.log
+
+# 忽略一些临时文件或缓存文件
+*.tmp
+*.cache
+
+# 忽略一些系统或隐藏文件
+.DS_Store
+Thumbs.db
